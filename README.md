@@ -6,6 +6,12 @@ Repositório de dashboard desenvolvido em Power BI como exercício de treinament
 Fazer uma análise de uma empresa prestadora de serviços de consultoria.
 
 ## Dados
+* **Cadastro Funcionários**: Tem as informações de cada funcionário: Nome, Data de Nascimento, Salário, Cargo, etc 
+* **Cadastro Clientes** : Tem as informações de cada cliente: Nome, Valor de Contrato Anual (quanto que ele paga pra empresa todo ano pela prestação do serviço). 
+* **Cadastro Cargos** : Tem as informações de cada Cargo da empresa: Qual é o nível (Diretor, Estagiário, analista, etc) e a área (Administrativo, Logística, etc). 
+* **Base Serviços Prestados** : Uma tabela com as informações sobre os serviços de consultoria que são prestados. Na primeira coluna, tem o ID do funcionário que está 
+realizando aquele serviço, o ID do cliente que solicitou o serviço e a Data de contratação desse serviço. Nessa planilha, só tem os clientes que ainda estão 
+recebendo o serviço da empresa (ou seja, todos ainda são nossos clientes até hoje).
 
 ## Medidas
 Os cálculos foram feitos através das medidas descritas abaixo:
