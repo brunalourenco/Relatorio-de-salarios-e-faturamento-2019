@@ -1,6 +1,6 @@
 # Relatorio-de-salarios-e-faturamento-2019
 
-Repositório de dashboard desenvolvido em Power BI como exercício de treinamento da Hashtag Treinamentos.
+Repositório de dashboard desenvolvido em Power BI como exercício de curso da Hashtag Treinamentos.
 
 ## Objetivo
 Fazer uma análise de uma empresa prestadora de serviços de consultoria.
